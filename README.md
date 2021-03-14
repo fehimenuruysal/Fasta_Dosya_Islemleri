@@ -21,5 +21,3 @@ nCovid sekansları: https://www.ncbi.nlm.nih.gov/nuccore/MN988669.1
 
 
 Klasör içerisinde RAPOR.pdf dosyası açıklama raporu bulunmaktadır.
-PROGRAM ÇIKTI DOSYALARI klasöründe programın çalışması sonucu çıktı olarak üretilen dosyalar,
-klasörler içerisinde gruplandırılmış olarak bulunmaktadır.
