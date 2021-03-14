@@ -1,0 +1,2803 @@
+Konum : 76
+nCovid = RTAP
+SARS   = LSTN
+
+**************
+
+Konum : 83
+nCovid = VM
+SARS   = KV
+
+**************
+
+Konum : 92
+nCovid = E
+SARS   = D
+
+**************
+
+Konum : 142
+nCovid = F
+SARS   = Y
+
+**************
+
+Konum : 156
+nCovid = FQE
+SARS   = YEQ
+
+**************
+
+Konum : 168
+nCovid = VT
+SARS   = AL
+
+**************
+
+Konum : 173
+nCovid = M
+SARS   = T
+
+**************
+
+Konum : 181
+nCovid = Y
+SARS   = V
+
+**************
+
+Konum : 203
+nCovid = L
+SARS   = F
+
+**************
+
+Konum : 211
+nCovid = S
+SARS   = M
+
+**************
+
+Konum : 223
+nCovid = T
+SARS   = S
+
+**************
+
+Konum : 245
+nCovid = E
+SARS   = D
+
+**************
+
+Konum : 271
+nCovid = N
+SARS   = K
+
+**************
+
+Konum : 279
+nCovid = II
+SARS   = KV
+
+**************
+
+Konum : 282
+nCovid = T
+SARS   = V
+
+**************
+
+Konum : 292
+nCovid = LD
+SARS   = TE
+
+**************
+
+Konum : 309
+nCovid = N
+SARS   = Q
+
+**************
+
+Konum : 313
+nCovid = Q
+SARS   = N
+
+**************
+
+Konum : 315
+nCovid = C
+SARS   = H
+
+**************
+
+Konum : 323
+nCovid = D
+SARS   = N
+
+**************
+
+Konum : 333
+nCovid = G
+SARS   = C
+
+**************
+
+Konum : 349
+nCovid = TK
+SARS   = VI
+
+**************
+
+Konum : 368
+nCovid = Y
+SARS   = P
+
+**************
+
+Konum : 374
+nCovid = NS
+SARS   = DP
+
+**************
+
+Konum : 377
+nCovid = V
+SARS   = I
+
+**************
+
+Konum : 383
+nCovid = L
+SARS   = V
+
+**************
+
+Konum : 385
+nCovid = E
+SARS   = D
+
+**************
+
+Konum : 389
+nCovid = E
+SARS   = H
+
+**************
+
+Konum : 391
+nCovid = GLK
+SARS   = NIE
+
+**************
+
+Konum : 395
+nCovid = I
+SARS   = R
+
+**************
+
+Konum : 403
+nCovid = IA
+SARS   = RC
+
+**************
+
+Konum : 416
+nCovid = H
+SARS   = Y
+
+**************
+
+Konum : 432
+nCovid = CN
+SARS   = SG
+
+**************
+
+Konum : 437
+nCovid = VV
+SARS   = IT
+
+**************
+
+Konum : 440
+nCovid = EGS
+SARS   = DNV
+
+**************
+
+Konum : 444
+nCovid = G
+SARS   = T
+
+**************
+
+Konum : 448
+nCovid = N
+SARS   = D
+
+**************
+
+Konum : 454
+nCovid = QK
+SARS   = SR
+
+**************
+
+Konum : 457
+nCovid = K
+SARS   = R
+
+**************
+
+Konum : 467
+nCovid = K
+SARS   = H
+
+**************
+
+Konum : 487
+nCovid = VE
+SARS   = ID
+
+**************
+
+Konum : 490
+nCovid = V
+SARS   = I
+
+**************
+
+Konum : 492
+nCovid = G
+SARS   = S
+
+**************
+
+Konum : 500
+nCovid = Q
+SARS   = T
+
+**************
+
+Konum : 508
+nCovid = F
+SARS   = Y
+
+**************
+
+Konum : 516
+nCovid = K
+SARS   = V
+
+**************
+
+Konum : 524
+nCovid = E
+SARS   = Q
+
+**************
+
+Konum : 526
+nCovid = K
+SARS   = R
+
+**************
+
+Konum : 528
+nCovid = I
+SARS   = V
+
+**************
+
+Konum : 530
+nCovid = S
+SARS   = T
+
+**************
+
+Konum : 534
+nCovid = A
+SARS   = G
+
+**************
+
+Konum : 536
+nCovid = A
+SARS   = P
+
+**************
+
+Konum : 538
+nCovid = E
+SARS   = Q
+
+**************
+
+Konum : 548
+nCovid = S
+SARS   = A
+
+**************
+
+Konum : 552
+nCovid = ET
+SARS   = DA
+
+**************
+
+Konum : 555
+nCovid = QN
+SARS   = NH
+
+**************
+
+Konum : 558
+nCovid = VRV
+SARS   = IPD
+
+**************
+
+Konum : 566
+nCovid = I
+SARS   = V
+
+**************
+
+Konum : 574
+nCovid = QY
+SARS   = EQ
+
+**************
+
+Konum : 585
+nCovid = F
+SARS   = Y
+
+**************
+
+Konum : 593
+nCovid = NLVV
+SARS   = SVII
+
+**************
+
+Konum : 600
+nCovid = I
+SARS   = V
+
+**************
+
+Konum : 604
+nCovid = V
+SARS   = L
+
+**************
+
+Konum : 616
+nCovid = F
+SARS   = L
+
+**************
+
+Konum : 620
+nCovid = Y
+SARS   = V
+
+**************
+
+Konum : 624
+nCovid = K
+SARS   = R
+
+**************
+
+Konum : 626
+nCovid = VLD
+SARS   = IFE
+
+**************
+
+Konum : 630
+nCovid = L
+SARS   = I
+
+**************
+
+Konum : 632
+nCovid = E
+SARS   = A
+
+**************
+
+Konum : 634
+nCovid = FKE
+SARS   = LSA
+
+**************
+
+Konum : 642
+nCovid = R
+SARS   = K
+
+**************
+
+Konum : 644
+nCovid = G
+SARS   = A
+
+**************
+
+Konum : 648
+nCovid = V
+SARS   = L
+
+**************
+
+Konum : 652
+nCovid = S
+SARS   = I
+
+**************
+
+Konum : 654
+nCovid = CACE
+SARS   = GVFD
+
+**************
+
+Konum : 665
+nCovid = TCAKE
+SARS   = VASDN
+
+**************
+
+Konum : 673
+nCovid = S
+SARS   = C
+
+**************
+
+Konum : 675
+nCovid = QT
+SARS   = KC
+
+**************
+
+Konum : 678
+nCovid = FKL
+SARS   = IDV
+
+**************
+
+Konum : 684
+nCovid = F
+SARS   = A
+
+**************
+
+Konum : 686
+nCovid = AL
+SARS   = EM
+
+**************
+
+Konum : 689
+nCovid = A
+SARS   = I
+
+**************
+
+Konum : 691
+nCovid = SII
+SARS   = QVT
+
+**************
+
+Konum : 695
+nCovid = G
+SARS   = A
+
+**************
+
+Konum : 701
+nCovid = A
+SARS   = S
+
+**************
+
+Konum : 707
+nCovid = T
+SARS   = V
+
+**************
+
+Konum : 709
+nCovid = VTH
+SARS   = IAQ
+
+**************
+
+Konum : 721
+nCovid = KSR
+SARS   = RGK
+
+**************
+
+Konum : 725
+nCovid = ETG
+SARS   = QLQ
+
+**************
+
+Konum : 739
+nCovid = I
+SARS   = T
+
+**************
+
+Konum : 745
+nCovid = TLP
+SARS   = SHD
+
+**************
+
+Konum : 749
+nCovid = EVLT
+SARS   = VLTS
+
+**************
+
+Konum : 764
+nCovid = P
+SARS   = A
+
+**************
+
+Konum : 770
+nCovid = SEAVEAPL
+SARS   = DSFTNGAI
+
+**************
+
+Konum : 795
+nCovid = T
+SARS   = K
+
+**************
+
+Konum : 797
+nCovid = K
+SARS   = Q
+
+**************
+
+Konum : 805
+nCovid = MMV
+SARS   = LLA
+
+**************
+
+Konum : 811
+nCovid = T
+SARS   = V
+
+**************
+
+Konum : 813
+nCovid = T
+SARS   = R
+
+**************
+
+Konum : 823
+nCovid = TFGDDTVIEVQGYKSVNITFELDERIDKVLNEKCSAYTVELGTEVNEFACV
+SARS   = VTFGEDTVWEVQGYKNVRITFELDERVDKVLNEKCSVYTVESGTEVTEFAC
+
+**************
+
+Konum : 875
+nCovid = ADAVIKTLQPVSEL
+SARS   = VAEAVVKTLQPVSD
+
+**************
+
+Konum : 890
+nCovid = TPLGIDLDEWSMATYYLFDESGEFKLA
+SARS   = LTNMGIDLDEWSVATFYLFDDAGEENF
+
+**************
+
+Konum : 918
+nCovid = HMYCSFYP
+SARS   = SRMYCSFY
+
+**************
+
+Konum : 927
+nCovid = DED
+SARS   = PDE
+
+**************
+
+Konum : 933
+nCovid = G
+SARS   = D
+
+**************
+
+Konum : 935
+nCovid = C
+SARS   = A
+
+**************
+
+Konum : 937
+nCovid = E
+SARS   = C
+
+**************
+
+Konum : 943
+nCovid = STQY
+SARS   = DETC
+
+**************
+
+Konum : 948
+nCovid = YGTEDDYQGKP
+SARS   = HEYGTEDDYQG
+
+**************
+
+Konum : 960
+nCovid = EFGATSA
+SARS   = PLEFGAS
+
+**************
+
+Konum : 968
+nCovid = LQPEE
+SARS   = ETVRV
+
+**************
+
+Konum : 974
+nCovid = Q
+SARS   = E
+
+**************
+
+Konum : 978
+nCovid = WLDD
+SARS   = EDWL
+
+**************
+
+Konum : 983
+nCovid = SQQTVGQQDGSEDNQTTTIQTIVEVQPQ
+SARS   = DTTEQSEIEPEPEPTPEEPVNQFTGYLK
+
+**************
+
+Konum : 1012
+nCovid = EMELTPVVQT
+SARS   = TDNVAIKCVD
+
+**************
+
+Konum : 1023
+nCovid = EVNSF
+SARS   = VKEAQ
+
+**************
+
+Konum : 1029
+nCovid = GYLKLTD
+SARS   = ANPMVIV
+
+**************
+
+Konum : 1037
+nCovid = VYIKNADIVEEAKKVKPTVVVN
+SARS   = AANIHLKHGGGVAGALNKATNG
+
+**************
+
+Konum : 1060
+nCovid = ANVYLKHGGGVA
+SARS   = MQKESDDYIKLN
+
+**************
+
+Konum : 1073
+nCovid = A
+SARS   = P
+
+**************
+
+Konum : 1075
+nCovid = NKATNNAMQVESDDYIATNGPLKVGGSCVLSGHNL
+SARS   = TVGGSCLLSGHNLAKKCLHVVGPNLNAGEDIQLLK
+
+**************
+
+Konum : 1111
+nCovid = KHCLHVVGPNVNKGEDIQLLKS
+SARS   = AYENFNSQDILLAPLLSAGIFG
+
+**************
+
+Konum : 1134
+nCovid = YENFNQHEVLLAPLLSAG
+SARS   = KPLQSLQVCVQTVRTQVY
+
+**************
+
+Konum : 1153
+nCovid = FGA
+SARS   = AVN
+
+**************
+
+Konum : 1157
+nCovid = PIHSLR
+SARS   = KALYEQ
+
+**************
+
+Konum : 1164
+nCovid = CV
+SARS   = VM
+
+**************
+
+Konum : 1167
+nCovid = TVRTNVYLAVFD
+SARS   = YLDNLKPRVEAP
+
+**************
+
+Konum : 1180
+nCovid = NLYDKLVSSFLEMKSEKQVEQKIAEIPKEEVKPFI
+SARS   = QEEPPNTEDSKTEEKSVVQKPVDVKPKIKACIDEV
+
+**************
+
+Konum : 1216
+nCovid = ESKPSVEQRKQDDKKIKACVEEVTTTLEETKFLTENLL
+SARS   = TTLEETKFLTNKLLLFADINGKLYHDSQNMLRGDDMSF
+
+**************
+
+Konum : 1255
+nCovid = YI
+SARS   = EK
+
+**************
+
+Konum : 1258
+nCovid = INGNLHPDSATLVSDIDITFL
+SARS   = APYMVGDVITSGDITCVVIPS
+
+**************
+
+Konum : 1282
+nCovid = APYIVGDVVQEGVLTAVVIP
+SARS   = GGTTEMLSRALKKVPVDEYI
+
+**************
+
+Konum : 1303
+nCovid = KKA
+SARS   = TYP
+
+**************
+
+Konum : 1307
+nCovid = GTTEMLAKALR
+SARS   = QGCAGYTLEEA
+
+**************
+
+Konum : 1319
+nCovid = VPTDNYITTYPGQGLNGYTVE
+SARS   = TALKKCKSAFYVLPSEAPNAK
+
+**************
+
+Konum : 1341
+nCovid = AKTVLKKCKSAFYILPSIISNEKQE
+SARS   = EILGTVSWNLREMLAHAEETRKLMP
+
+**************
+
+Konum : 1367
+nCovid = LGT
+SARS   = CMD
+
+**************
+
+Konum : 1371
+nCovid = SWNLREMLAHAEETRKLMPVCVETKAIVSTIQRKYKGIK
+SARS   = RAIMATIQRKYKGIKIQEGIVDYGVRFFFYTSKEPVASI
+
+**************
+
+Konum : 1411
+nCovid = QEGVVDYGARFYFYTSKT
+SARS   = TKLNSLNEPLVTMPIGYV
+
+**************
+
+Konum : 1430
+nCovid = VASLINTLNDLNET
+SARS   = HGFNLEEAARCMRS
+
+**************
+
+Konum : 1445
+nCovid = VTMPLGY
+SARS   = KAPAVVS
+
+**************
+
+Konum : 1453
+nCovid = THGLNLEEAAR
+SARS   = SSPDAVTTYNG
+
+**************
+
+Konum : 1465
+nCovid = MR
+SARS   = LT
+
+**************
+
+Konum : 1468
+nCovid = LKVPATVSVSSPDAVTAYNGYLTS
+SARS   = SSKTSEEHFVETVSLAGSYRDWSY
+
+**************
+
+Konum : 1493
+nCovid = SKTP
+SARS   = GQRT
+
+**************
+
+Konum : 1498
+nCovid = EHFIETISLAGSYKDWSY
+SARS   = LGVEFLKRGDKIVYHTLE
+
+**************
+
+Konum : 1517
+nCovid = GQSTQ
+SARS   = PVEFH
+
+**************
+
+Konum : 1523
+nCovid = GI
+SARS   = DG
+
+**************
+
+Konum : 1526
+nCovid = F
+SARS   = V
+
+**************
+
+Konum : 1528
+nCovid = KRGDKSVYYTSNPTTFHLDGEVITFD
+SARS   = SLDKLKSLLSLREVKTIKVFTTVDNT
+
+**************
+
+Konum : 1561
+nCovid = LREVRTIKV
+SARS   = DMSMTYGQQ
+
+**************
+
+Konum : 1571
+nCovid = TTVDNINLHTQVVDMSMTYGQQFGPTYLDGADVTKIKPHNS
+SARS   = GPTYLDGADVTKIKPHVNHEGKTFFVLPSDDTLRSEAFEYY
+
+**************
+
+Konum : 1613
+nCovid = EGKTFYVLPNDDT
+SARS   = TLDESFLGRYMSA
+
+**************
+
+Konum : 1627
+nCovid = RVEAFEYYHTTDPSFLGRYMSALNHTKKWKYPQVNGLTSIKWADNNCYLAT
+SARS   = NHTKKWKFPQVGGLTSIKWADNNCYLSSVLLALQQLEVKFNAPALQEAYYR
+
+**************
+
+Konum : 1679
+nCovid = LLTLQQIELKFNPPALQDAYYRARAGEAANFCA
+SARS   = RAGDAANFCALILAYSNKTVGELGDVRETMTHL
+
+**************
+
+Konum : 1713
+nCovid = IL
+SARS   = QH
+
+**************
+
+Konum : 1716
+nCovid = YCNKTVGE
+SARS   = NLESAKRV
+
+**************
+
+Konum : 1725
+nCovid = GD
+SARS   = NV
+
+**************
+
+Konum : 1728
+nCovid = RETMSYLFQHANLDSCKRVLNVVCKTCGQQQTTLKG
+SARS   = CKHCGQKTTTLTGVEAVMYMGTLSYDNLKTGVSIPC
+
+**************
+
+Konum : 1765
+nCovid = EAVMYMGT
+SARS   = CGRDATQY
+
+**************
+
+Konum : 1774
+nCovid = SYEQFKKGVQIPCTCGKQATKYLVQQESPFVMMSAPPAQYELKHGTFTCASEYTGNYQCGH
+SARS   = VQQESSFVMMSAPPAEYKLQQGTFLCANEYTGNYQCGHYTHITAKETLYRIDGAHLTKMSE
+
+**************
+
+Konum : 1838
+nCovid = ITSKETLYCIDGALLT
+SARS   = PVTDVFYKETSYTTTI
+
+**************
+
+Konum : 1855
+nCovid = SSE
+SARS   = PVS
+
+**************
+
+Konum : 1861
+nCovid = PITDVFYK
+SARS   = DGVTYTEI
+
+**************
+
+Konum : 1870
+nCovid = NSYTTTI
+SARS   = PKLDGYY
+
+**************
+
+Konum : 1878
+nCovid = PVTYKLDGVVCTEIDPKLDNYYKK
+SARS   = KDNAYYTEQPIDLVPTQPLPNASF
+
+**************
+
+Konum : 1905
+nCovid = YF
+SARS   = KL
+
+**************
+
+Konum : 1908
+nCovid = EQPIDLVPNQPYPNASFDNFKFVCDNIK
+SARS   = CSNTKFADDLNQMTGFTKPASRELSVTF
+
+**************
+
+Konum : 1937
+nCovid = A
+SARS   = P
+
+**************
+
+Konum : 1939
+nCovid = DLNQLTGYKKPASRELKVTFFPD
+SARS   = LNGDVVAIDYRHYSASFKKGAKL
+
+**************
+
+Konum : 1963
+nCovid = NGDV
+SARS   = HKPI
+
+**************
+
+Konum : 1968
+nCovid = AIDYKHY
+SARS   = WHINQAT
+
+**************
+
+Konum : 1976
+nCovid = PSFK
+SARS   = KTTF
+
+**************
+
+Konum : 1981
+nCovid = GAKLLHKPIVWHVNNA
+SARS   = PNTWCLRCLWSTKPVD
+
+**************
+
+Konum : 1998
+nCovid = NKATYKPNTWCIRCLWSTKPVETSNSFDVLKSEDAQGMDNLA
+SARS   = SNSFEVLAVEDTQGMDNLACESQQPTSEEVVENPTIQKEVIE
+
+**************
+
+Konum : 2041
+nCovid = EDLKPVSEEV
+SARS   = DVKTTEVVGN
+
+**************
+
+Konum : 2052
+nCovid = ENPTIQKD
+SARS   = ILKPSDEG
+
+**************
+
+Konum : 2061
+nCovid = LECNVKTT
+SARS   = KVTQELGH
+
+**************
+
+Konum : 2070
+nCovid = VVGDIILKPANNSL
+SARS   = DLMAAYVENTSITI
+
+**************
+
+Konum : 2085
+nCovid = ITE
+SARS   = KPN
+
+**************
+
+Konum : 2089
+nCovid = VGHTDLMAAYVDNSSLT
+SARS   = LSLALGLKTIATHGIAA
+
+**************
+
+Konum : 2107
+nCovid = KKPNELSRVLGL
+SARS   = NSVPWSKILAYV
+
+**************
+
+Konum : 2120
+nCovid = TLATHGLAAVNSVPWDTIANYAKPFLNK
+SARS   = PFLGQAAITTSNCAKRLAQRVFNNYMPY
+
+**************
+
+Konum : 2149
+nCovid = VSTTTNIV
+SARS   = FTLLFQLC
+
+**************
+
+Konum : 2158
+nCovid = RCLNRVCTNYMPYFF
+SARS   = FTKSTNSRIRASLPT
+
+**************
+
+Konum : 2174
+nCovid = LLLQLCTFTRSTNSRIKASMPTTIAKNTVKSVGKFC
+SARS   = IAKNSVKSVAKLCLDAGINYVKSPKFSKLFTIAMWL
+
+**************
+
+Konum : 2211
+nCovid = EA
+SARS   = LL
+
+**************
+
+Konum : 2214
+nCovid = FNYLKSPNFSKLINIIIWFLLLSVCLGSLIYSTAALGVLMSNLGMPSYCTGYREGYLNSTNVTIATYC
+SARS   = ICLGSLICVTAAFGVLLSNFGAPSYCNGVRELYLNSSNVTTMDFCEGSFPCSICLSGLDSLDSYPALE
+
+**************
+
+Konum : 2283
+nCovid = GSIPC
+SARS   = IQVTI
+
+**************
+
+Konum : 2289
+nCovid = VCLSG
+SARS   = SYKLD
+
+**************
+
+Konum : 2295
+nCovid = DS
+SARS   = TI
+
+**************
+
+Konum : 2298
+nCovid = DTYPSLETIQITISS
+SARS   = GLAAEWVLAYMLFTK
+
+**************
+
+Konum : 2314
+nCovid = KWD
+SARS   = FYL
+
+**************
+
+Konum : 2318
+nCovid = TAFGLVAEW
+SARS   = GLSAIMQVF
+
+**************
+
+Konum : 2328
+nCovid = LAYILFTRFFYV
+SARS   = GYFASHFISNSW
+
+**************
+
+Konum : 2341
+nCovid = GLAA
+SARS   = MWFI
+
+**************
+
+Konum : 2346
+nCovid = MQLFFSYFAVHFISNSWLMWLIINLVQMAP
+SARS   = SIVQMAPVSAMVRMYIFFASFYYIWKSYVH
+
+**************
+
+Konum : 2377
+nCovid = SAMVRMYIFFASFYYVWKSY
+SARS   = MDGCTSSTCMMCYKRNRATR
+
+**************
+
+Konum : 2398
+nCovid = HVVDGC
+SARS   = ECTTIV
+
+**************
+
+Konum : 2405
+nCovid = SSTCMMCYKR
+SARS   = GMKRSFYVYA
+
+**************
+
+Konum : 2416
+nCovid = RATRVEC
+SARS   = GGRGFCK
+
+**************
+
+Konum : 2424
+nCovid = TIV
+SARS   = HNW
+
+**************
+
+Konum : 2428
+nCovid = GVRRSFYVYANGGKGFCKLHNWNCVNCDTFCAGSTFISDEVARDLSLQFKRPINPTDQSSYIVDSVTVKNGSIHLYFDKAGQKTYERHSLSHFVNLDNLRANNTKG
+SARS   = CLNCDTFCTGSTFISDEVARDLSLQFKRPINPTDQSSYIVDSVAVKNGALHLYFDKAGQKTYERHPLSHFVNLDNLRANNTKGSLPINVIVFDGKSKCDESASKSA
+
+**************
+
+Konum : 2535
+nCovid = LPINVIVFDGKSKCEESSAKSASVYYSQLMCQPILLL
+SARS   = VYYSQLMCQPILLLDQALVSDVGDSTEVSVKMFDAYV
+
+**************
+
+Konum : 2573
+nCovid = QALVSDVGDSAEVAVKMFD
+SARS   = TFSATFSVPMEKLKALVAT
+
+**************
+
+Konum : 2593
+nCovid = YVNTFSSTFNVPMEKLKTLV
+SARS   = HSELAKGVALDGVLSTFVSA
+
+**************
+
+Konum : 2614
+nCovid = TAEAELAKNVSL
+SARS   = RQGVVDTDVDTK
+
+**************
+
+Konum : 2627
+nCovid = NVLSTFI
+SARS   = VIECLKL
+
+**************
+
+Konum : 2635
+nCovid = AARQGF
+SARS   = YHSDLE
+
+**************
+
+Konum : 2642
+nCovid = DS
+SARS   = TG
+
+**************
+
+Konum : 2645
+nCovid = VETKDVVECL
+SARS   = SCNNFMLTYN
+
+**************
+
+Konum : 2656
+nCovid = LSHQSDIEVTGDSCN
+SARS   = VENMTPRDLGACIDC
+
+**************
+
+Konum : 2672
+nCovid = YMLTYNK
+SARS   = ARHINAQ
+
+**************
+
+Konum : 2680
+nCovid = ENMTPRD
+SARS   = AKSHNVS
+
+**************
+
+Konum : 2688
+nCovid = GACIDCSARHINAQVAKSHNI
+SARS   = IWNVKDYMSLSEQLRKQIRSA
+
+**************
+
+Konum : 2710
+nCovid = LIW
+SARS   = KKN
+
+**************
+
+Konum : 2714
+nCovid = VKDFMSLSEQLRKQIRSAA
+SARS   = IPFRLTCATTRQVVNVITT
+
+**************
+
+Konum : 2734
+nCovid = KNNLPF
+SARS   = ISLKGG
+
+**************
+
+Konum : 2741
+nCovid = LTCATTRQVVNVVTTKIALKGGKIVNNWLKQ
+SARS   = IVSTCFKLMLKATLLCVLAALVCYIVMPVHT
+
+**************
+
+Konum : 2773
+nCovid = IKVTLVFLFVAAIFYLITP
+SARS   = SIHDGYTNEIIGYKAIQDG
+
+**************
+
+Konum : 2793
+nCovid = HVMSKH
+SARS   = TRDIIS
+
+**************
+
+Konum : 2802
+nCovid = SSEIIGYKAIDGGVT
+SARS   = CFANKHAGFDAWFSQ
+
+**************
+
+Konum : 2818
+nCovid = DIASTDTCFANKH
+SARS   = GGSYKNDKSCPVV
+
+**************
+
+Konum : 2832
+nCovid = DFD
+SARS   = AII
+
+**************
+
+Konum : 2836
+nCovid = WFSQRGGSYTNDKACPL
+SARS   = REIGFIVPGLPGTVLRA
+
+**************
+
+Konum : 2854
+nCovid = AAVITREVGF
+SARS   = NGDFLHFLPR
+
+**************
+
+Konum : 2865
+nCovid = VPGLPGTILRTTNGDFLHFLPRVFSAVGNI
+SARS   = FSAVGNICYTPSKLIEYSDFATSACVLAAE
+
+**************
+
+Konum : 2896
+nCovid = YTPSKLIEYTDFATSACV
+SARS   = TIFKDAMGKPVPYCYDTN
+
+**************
+
+Konum : 2915
+nCovid = AAECTIFKDASGKPVPYCY
+SARS   = LEGSISYSELRPDTRYVLM
+
+**************
+
+Konum : 2935
+nCovid = TNVLEGSVA
+SARS   = GSIIQFPNT
+
+**************
+
+Konum : 2945
+nCovid = ESLRPDTRYVLMDGSIIQFPNTYL
+SARS   = LEGSVRVVTTFDAEYCRHGTCERS
+
+**************
+
+Konum : 2970
+nCovid = GSVRVV
+SARS   = VGICLS
+
+**************
+
+Konum : 2977
+nCovid = TFDSEYCRHGTCER
+SARS   = SGRWVLNNEHYRAL
+
+**************
+
+Konum : 2992
+nCovid = EAGVC
+SARS   = GVFCG
+
+**************
+
+Konum : 2998
+nCovid = STSGRWVLNNDYYRSLP
+SARS   = DAMNLIANIFTPLVQPV
+
+**************
+
+Konum : 3016
+nCovid = VFCGVDA
+SARS   = ALDVSAS
+
+**************
+
+Konum : 3024
+nCovid = NLLTNMFTPLIQPIGALDISASIVAGGIVAIVVTC
+SARS   = VAGGIIAILVTCAAYYFMKFRRVFGEYNHVVAANA
+
+**************
+
+Konum : 3060
+nCovid = AYYFMRFRRAFGEYSHVVAFNTLL
+SARS   = LFLMSFTILCLVPAYSFLPGVYSV
+
+**************
+
+Konum : 3085
+nCovid = LMSF
+SARS   = YLYL
+
+**************
+
+Konum : 3090
+nCovid = VLCLTP
+SARS   = FYFTND
+
+**************
+
+Konum : 3097
+nCovid = YSFLPGVYSVIYLYLTFYLTNDVSFLAHIQWMVMFTPLVPFWITIAYIICISTKHFYWFFSNY
+SARS   = SFLAHLQWFAMFSPIVPFWITAIYVFCISLKHCHWFFNNYLRKRVMFNGVTFSTFEEAALCTF
+
+**************
+
+Konum : 3161
+nCovid = KRRVVFNGVSFS
+SARS   = LNKEMYLKLRSE
+
+**************
+
+Konum : 3174
+nCovid = FEEAALCTFL
+SARS   = LLPLTQYNRY
+
+**************
+
+Konum : 3185
+nCovid = NKEMYL
+SARS   = ALYNKY
+
+**************
+
+Konum : 3192
+nCovid = LR
+SARS   = YF
+
+**************
+
+Konum : 3195
+nCovid = DV
+SARS   = GA
+
+**************
+
+Konum : 3198
+nCovid = LPLTQYNRYLALYN
+SARS   = DTTSYREAACCHLA
+
+**************
+
+Konum : 3213
+nCovid = YKYFSGAMDTTSYREAACCHLAK
+SARS   = ALNDFSNSGADVLYQPPQTSITS
+
+**************
+
+Konum : 3237
+nCovid = LNDFSNSGSDVLYQPPQTSITSAVLQSGFRKMAFPSGK
+SARS   = VLQSGFRKMAFPSGKVEGCMVQVTCGTTTLNGLWLDDT
+
+**************
+
+Konum : 3276
+nCovid = EGCMVQVTCGTTT
+SARS   = YCPRHVICTAEDM
+
+**************
+
+Konum : 3292
+nCovid = LWL
+SARS   = NYE
+
+**************
+
+Konum : 3296
+nCovid = DVVYCPR
+SARS   = LLIRKSN
+
+**************
+
+Konum : 3304
+nCovid = VICTSEDMLNPNYEDLLIRKSNHNFL
+SARS   = SFLVQAGNVQLRVIGHSMQNCLLRLK
+
+**************
+
+Konum : 3331
+nCovid = QAG
+SARS   = DTS
+
+**************
+
+Konum : 3335
+nCovid = VQLRVIGHSMQNCVLKLK
+SARS   = PKTPKYKFVRIQPGQTFS
+
+**************
+
+Konum : 3354
+nCovid = DTANPKT
+SARS   = LACYNGS
+
+**************
+
+Konum : 3362
+nCovid = KYKFVRIQPGQTFSVLACY
+SARS   = SGVYQCAMRPNHTIKGSFL
+
+**************
+
+Konum : 3384
+nCovid = PSG
+SARS   = CGS
+
+**************
+
+Konum : 3388
+nCovid = YQCAMRPNFTIKGSFLNGSCGS
+SARS   = GFNIDYDCVSFCYMHHMELPTG
+
+**************
+
+Konum : 3411
+nCovid = GFNI
+SARS   = HAGT
+
+**************
+
+Konum : 3416
+nCovid = YDCVSFCYMHHMELPTGVHAG
+SARS   = LEGKFYGPFVDRQTAQAAGTD
+
+**************
+
+Konum : 3438
+nCovid = DLEG
+SARS   = TITL
+
+**************
+
+Konum : 3443
+nCovid = FYGPFVDRQTAQAAGTDTTI
+SARS   = VLAWLYAAVINGDRWFLNRF
+
+**************
+
+Konum : 3464
+nCovid = VNVLAWLYA
+SARS   = TTLNDFNLV
+
+**************
+
+Konum : 3474
+nCovid = VINGDRWFLNRFTTT
+SARS   = MKYNYEPLTQDHVDI
+
+**************
+
+Konum : 3490
+nCovid = NDFNLVAMKYNYEPLTQDHVDILGPLSAQ
+SARS   = GPLSAQTGIAVLDMCAALKELLQNGMNGR
+
+**************
+
+Konum : 3520
+nCovid = GIAVLDMCASLKELLQNGMNGRTILGSALLEDEFTPFDVVRQCSGVTFQSA
+SARS   = ILGSTILEDEFTPFDVVRQCSGVTFQGKFKKIVKGTHHWMLLTFLTSLLIL
+
+**************
+
+Konum : 3572
+nCovid = KR
+SARS   = QS
+
+**************
+
+Konum : 3575
+nCovid = IKGTHHWLLLTILTSLLVLVQSTQWSLFFFLYENAFLPFAMGIIAMSAF
+SARS   = QWSLFFFVYENAFLPFTLGIMAIAACAMLLVKHKHAFLCLFLLPSLATV
+
+**************
+
+Konum : 3625
+nCovid = MMFVKHKH
+SARS   = YFNMVYMP
+
+**************
+
+Konum : 3634
+nCovid = FLCLFLLPS
+SARS   = SWVMRIMTW
+
+**************
+
+Konum : 3644
+nCovid = ATVAYFNMV
+SARS   = ELADTSLSG
+
+**************
+
+Konum : 3654
+nCovid = MPASW
+SARS   = RLKDC
+
+**************
+
+Konum : 3662
+nCovid = IMTWLDMVDTSLSGFKLKDCVMYASAVVLLI
+SARS   = ASALVLLILMTARTVYDDAARRVWTLMNVIT
+
+**************
+
+Konum : 3694
+nCovid = MTARTVYDDGARRVWTLMN
+SARS   = VYKVYYGNALDQAISMWAL
+
+**************
+
+Konum : 3714
+nCovid = LTLVYKVYYGNALDQAISMWALIIS
+SARS   = ISVTSNYSGVVTTIMFLARAIVFVC
+
+**************
+
+Konum : 3740
+nCovid = TSNYSGVV
+SARS   = EYYPLLFI
+
+**************
+
+Konum : 3749
+nCovid = TVMFLARGI
+SARS   = GNTLQCIML
+
+**************
+
+Konum : 3759
+nCovid = FMCVE
+SARS   = YCFLG
+
+**************
+
+Konum : 3767
+nCovid = IFFITGNT
+SARS   = CCYFGLFC
+
+**************
+
+Konum : 3776
+nCovid = QCIMLVYCFLG
+SARS   = LNRYFRLTLGV
+
+**************
+
+Konum : 3788
+nCovid = FCTCYFGL
+SARS   = DYLVSTQE
+
+**************
+
+Konum : 3797
+nCovid = CLL
+SARS   = RYM
+
+**************
+
+Konum : 3801
+nCovid = RYFR
+SARS   = SQGL
+
+**************
+
+Konum : 3806
+nCovid = TLGVYDYLVSTQEFRYMNSQGLLPPKNSIDAFKLNI
+SARS   = PPKSSIDAFKLNIKLLGIGGKPCIKVATVQSKMSDV
+
+**************
+
+Konum : 3843
+nCovid = LLG
+SARS   = CTS
+
+**************
+
+Konum : 3847
+nCovid = GGKPCIKVAT
+SARS   = VLLSVLQQLR
+
+**************
+
+Konum : 3858
+nCovid = Q
+SARS   = E
+
+**************
+
+Konum : 3860
+nCovid = KMSDVKCTSVVLLSV
+SARS   = SSKLWAQCVQLHNDI
+
+**************
+
+Konum : 3876
+nCovid = QQLRVESSSKLWAQCVQLHNDILL
+SARS   = LAKDTTEAFEKMVSLLSVLLSMQG
+
+**************
+
+Konum : 3901
+nCovid = K
+SARS   = V
+
+**************
+
+Konum : 3903
+nCovid = TTEAF
+SARS   = INRLC
+
+**************
+
+Konum : 3909
+nCovid = K
+SARS   = E
+
+**************
+
+Konum : 3911
+nCovid = VSLLSV
+SARS   = LDNRAT
+
+**************
+
+Konum : 3918
+nCovid = LSMQGAVDINKLCEEMLDNRATLQAIASEFS
+SARS   = QAIASEFSSLPSYAAYATAQEAYEQAVANGD
+
+**************
+
+Konum : 3950
+nCovid = LPSYAAFATAQEAYEQAVANGDSEVVLKKLKKSLNVAKSEFDRDAAMQ
+SARS   = EVVLKKLKKSLNVAKSEFDRDAAMQRKLEKMADQAMTQMYKQARSEDK
+
+**************
+
+Konum : 3999
+nCovid = KLEKM
+SARS   = AKVTS
+
+**************
+
+Konum : 4005
+nCovid = D
+SARS   = M
+
+**************
+
+Konum : 4007
+nCovid = A
+SARS   = T
+
+**************
+
+Konum : 4009
+nCovid = TQMYKQARSE
+SARS   = LFTMLRKLDN
+
+**************
+
+Konum : 4020
+nCovid = KRAKVTSAMQTMLFTMLRKLDND
+SARS   = ALNNIINNARDGCVPLNIIPLTT
+
+**************
+
+Konum : 4044
+nCovid = LNNIINNARD
+SARS   = AKLMVVVPDY
+
+**************
+
+Konum : 4055
+nCovid = CVPLNIIPL
+SARS   = TYKNTCDGN
+
+**************
+
+Konum : 4065
+nCovid = TAAKLMVVIPDYNTYKNTCDGTTFTYASALWEIQQVVDADSKIVQL
+SARS   = FTYASALWEIQQVVDADSKIVQLSEINMDNSPNLAWPLIVTALRAN
+
+**************
+
+Konum : 4112
+nCovid = EISMD
+SARS   = AVKLQ
+
+**************
+
+Konum : 4118
+nCovid = SPNLAWP
+SARS   = NELSPVA
+
+**************
+
+Konum : 4126
+nCovid = IVTALR
+SARS   = RQMSCA
+
+**************
+
+Konum : 4133
+nCovid = NSAVKLQNNELSPVALRQMSCAAGTTQTACTDDNALAYYNTTKG
+SARS   = GTTQTACTDDNALAYYNNSKGGRFVLALLSDHQDLKWARFPKSD
+
+**************
+
+Konum : 4178
+nCovid = RFVLALLSDLQDLKWARF
+SARS   = TGTIYTELEPPCRFVTDT
+
+**************
+
+Konum : 4199
+nCovid = DGTGTI
+SARS   = PKVKYL
+
+**************
+
+Konum : 4206
+nCovid = TELEPPCRFVTDTPKGPKVKYLYFIKGLNNLNRGMVLG
+SARS   = FIKGLNNLNRGMVLGSLAATVRLQAGNATEVPANSTVL
+
+**************
+
+Konum : 4245
+nCovid = LA
+SARS   = FC
+
+**************
+
+Konum : 4248
+nCovid = TVRLQ
+SARS   = FAVDP
+
+**************
+
+Konum : 4254
+nCovid = GNATEVP
+SARS   = KAYKDYL
+
+**************
+
+Konum : 4262
+nCovid = NSTVLSFCAFAVDAAKAYKDYLASGGQPITNCVKMLCTHTGTGQAITVTPEA
+SARS   = SGGQPITNCVKMLCTHTGTGQAITVTPEANMDQESFGGASCCLYCRCHIDHP
+
+**************
+
+Konum : 4315
+nCovid = MDQESFGGASCCLYCRCHIDH
+SARS   = PKGFCDLKGKYVQIPTTCAND
+
+**************
+
+Konum : 4337
+nCovid = NPKGFCDLKGKYVQIPTTCANDPVGFTLKNTVCTVCGMWKGYG
+SARS   = VGFTLRNTVCTVCGMWKGYGCSCDQLREPLMQSADASTFLNRV
+
+**************
+
+Konum : 4381
+nCovid = SCDQL
+SARS   = GVSAA
+
+**************
+
+Konum : 4387
+nCovid = EPMLQSADAQSFLN
+SARS   = LTPCGTGTSTDVVY
+
+**************
+
+Konum : 4402
+nCovid = VCGVSAARLTPCGTGTS
+SARS   = AFDIYNEKVAGFAKFLK
+
+**************
+
+Konum : 4420
+nCovid = DVVYRAFDIYNDKVAGFAKFL
+SARS   = NCCRFQEKDEEGNLLDSYFVV
+
+**************
+
+Konum : 4442
+nCovid = TNCCRFQEKD
+SARS   = RHTMSNYQHE
+
+**************
+
+Konum : 4453
+nCovid = DDNLIDSYFVVKRHTFSNYQHEETIYNLLKDCPAVA
+SARS   = TIYNLVKDCPAVAVHDFFKFRVDGDMVPHISRQRLT
+
+**************
+
+Konum : 4490
+nCovid = HDFFKFRIDGDMVPHISRQR
+SARS   = YTMADLVYALRHFDEGNCDT
+
+**************
+
+Konum : 4511
+nCovid = TKYTMADLVYALRH
+SARS   = KEILVTYNCCDDDY
+
+**************
+
+Konum : 4526
+nCovid = DEGNCDTLK
+SARS   = NKKDWYDFV
+
+**************
+
+Konum : 4536
+nCovid = ILVTYNCCDDDYFNKKDWYDFVENPDILRVY
+SARS   = NPDILRVYANLGERVRQSLLKTVQFCDAMRD
+
+**************
+
+Konum : 4568
+nCovid = NLGERVRQALLKTVQFCDAMRNAGI
+SARS   = GIVGVLTLDNQDLNGNWYDFGDFVQ
+
+**************
+
+Konum : 4594
+nCovid = GVLTLDNQDLNGNWYDFGDFIQ
+SARS   = APGCGVPIVDSYYSLLMPILTL
+
+**************
+
+Konum : 4617
+nCovid = TPGSGVPVV
+SARS   = RALAAESHM
+
+**************
+
+Konum : 4627
+nCovid = SYYSLLMPILT
+SARS   = ADLAKPLIKWD
+
+**************
+
+Konum : 4639
+nCovid = TRALTA
+SARS   = LKYDFT
+
+**************
+
+Konum : 4646
+nCovid = SHVDTDLTKPYIKWDLLKYDFTEERLKLFDRYFKYWDQTYHPNCVNCLDDRCILHCANFN
+SARS   = ERLCLFDRYFKYWDQTYHPNCINCLDDRCILHCANFNVLFSTVFPPTSFGPLVRKIFVDG
+
+**************
+
+Konum : 4707
+nCovid = L
+SARS   = P
+
+**************
+
+Konum : 4709
+nCovid = STVFPPTSFGPL
+SARS   = VVSTGYHFRELG
+
+**************
+
+Konum : 4722
+nCovid = RKIFVDGVPFVVSTGYHFRELGVVHNQDVNLHSSR
+SARS   = VHNQDVNLHSSRLSFKELLVYAADPAMHAASGNLL
+
+**************
+
+Konum : 4758
+nCovid = SFKELLVYA
+SARS   = DKRTTCFSV
+
+**************
+
+Konum : 4768
+nCovid = DPAMHA
+SARS   = ALTNNV
+
+**************
+
+Konum : 4775
+nCovid = SGNLLLDKRTTC
+SARS   = FQTVKPGNFNKD
+
+**************
+
+Konum : 4788
+nCovid = SVA
+SARS   = YDF
+
+**************
+
+Konum : 4792
+nCovid = LTNNVAFQTVKPGNFNKD
+SARS   = VSKGFFKEGSSVELKHFF
+
+**************
+
+Konum : 4811
+nCovid = YDFAVSKGFFKEGSSVE
+SARS   = AQDGNAAISDYDYYRYN
+
+**************
+
+Konum : 4829
+nCovid = KHFFFAQDGNAAISDY
+SARS   = PTMCDIRQLLFVVEVV
+
+**************
+
+Konum : 4846
+nCovid = Y
+SARS   = K
+
+**************
+
+Konum : 4848
+nCovid = RYNLPTM
+SARS   = FDCYDGG
+
+**************
+
+Konum : 4856
+nCovid = DIRQLLF
+SARS   = INANQVI
+
+**************
+
+Konum : 4864
+nCovid = VEVVDKYFDCYDGGCINANQVIVNNLDKSAGFPFNKWGKARLYYDS
+SARS   = NNLDKSAGFPFNKWGKARLYYDSMSYEDQDALFAYTKRNVIPTITQ
+
+**************
+
+Konum : 4911
+nCovid = SYEDQDALFAYTKRNVIPT
+SARS   = NLKYAISAKNRARTVAGVS
+
+**************
+
+Konum : 4931
+nCovid = TQMNLKYAISA
+SARS   = CSTMTNRQFHQ
+
+**************
+
+Konum : 4943
+nCovid = NRARTV
+SARS   = LLKSIA
+
+**************
+
+Konum : 4950
+nCovid = GVSICSTMTNRQ
+SARS   = TRGATVVIGTSK
+
+**************
+
+Konum : 4963
+nCovid = HQKLLKSIAATRGATVVIGTSKFYGGWHNMLKTVYSDVENPHLMGWDYPK
+SARS   = YGGWHNMLKTVYSDVETPHLMGWDYPKCDRAMPNMLRIMASLVLARKHNT
+
+**************
+
+Konum : 5014
+nCovid = DRAMPNML
+SARS   = CNLSHRFY
+
+**************
+
+Konum : 5023
+nCovid = IMASLVLARKHTTC
+SARS   = LANECAQVLSEMVM
+
+**************
+
+Konum : 5038
+nCovid = SL
+SARS   = GG
+
+**************
+
+Konum : 5041
+nCovid = HRFYRLANECAQVLSEMVMCGGSLYVKPGGTSSGDAT
+SARS   = LYVKPGGTSSGDATTAYANSVFNICQAVTANVNALLS
+
+**************
+
+Konum : 5079
+nCovid = AYANSVFNICQAVTANVNAL
+SARS   = DGNKIADKYVRNLQHRLYEC
+
+**************
+
+Konum : 5100
+nCovid = STDGNKIADKYVRNLQHRLYECLYRNRDV
+SARS   = YRNRDVDHEFVDEFYAYLRKHFSMMILSD
+
+**************
+
+Konum : 5130
+nCovid = TDFVNEFYAYLRKHFSMMILSDDAVVCF
+SARS   = AVVCYNSNYAAQGLVASIKNFKAVLYYQ
+
+**************
+
+Konum : 5159
+nCovid = STYA
+SARS   = NVFM
+
+**************
+
+Konum : 5164
+nCovid = QGLVASIKNFKSVLYYQNNVFMSEA
+SARS   = EAKCWTETDLTKGPHEFCSQHTMLV
+
+**************
+
+Konum : 5190
+nCovid = CWTETDLTKG
+SARS   = QGDDYVYLPY
+
+**************
+
+Konum : 5201
+nCovid = HEFCSQHTMLVKQGDDYVYLPYPDPSRILG
+SARS   = DPSRILGAGCFVDDIVKTDGTLMIERFVSL
+
+**************
+
+Konum : 5232
+nCovid = GCFVDDIVKTDGTLMIERFVS
+SARS   = IDAYPLTKHPNQEYADVFHLY
+
+**************
+
+Konum : 5254
+nCovid = AIDAYPLTKHPNQEYADVFHLYLQYIRKLHD
+SARS   = QYIRKLHDELTGHMLDMYSVMLTNDNTSRYW
+
+**************
+
+Konum : 5286
+nCovid = LTGHMLDMYSVMLTNDNTSRYWEPEFYEAMYTPHTVLQAVGACVLCNSQT
+SARS   = PEFYEAMYTPHTVLQAVGACVLCNSQTSLRCGACIRRPFLCCKCCYDHVI
+
+**************
+
+Konum : 5337
+nCovid = LRCGACIRRPFLC
+SARS   = TSHKLVLSVNPYV
+
+**************
+
+Konum : 5351
+nCovid = KCCYDH
+SARS   = NAPGCD
+
+**************
+
+Konum : 5358
+nCovid = ISTSHKLVLSVNP
+SARS   = TDVTQLYLGGMSY
+
+**************
+
+Konum : 5372
+nCovid = VCNAPGCDVTDVTQLYLGGMS
+SARS   = CKSHKPPISFPLCANGQVFGL
+
+**************
+
+Konum : 5394
+nCovid = YCKSHKPPISFPLC
+SARS   = KNTCVGSDNVTDFN
+
+**************
+
+Konum : 5409
+nCovid = NGQVFGLYKNTCVGSDNV
+SARS   = IATCDWTNAGDYILANTC
+
+**************
+
+Konum : 5428
+nCovid = DFNAIATCDWTN
+SARS   = ERLKLFAAETLK
+
+**************
+
+Konum : 5441
+nCovid = GDYILANTCTERLKLFAAETLKATEETFKLSYGIATV
+SARS   = TEETFKLSYGIATVREVLSDRELHLSWEVGKPRPPLN
+
+**************
+
+Konum : 5479
+nCovid = EVLSDRELHLSWEVGKPRPPLNRNYVFTGYR
+SARS   = NYVFTGYRVTKNSKVQIGEYTFEKGDYGDAV
+
+**************
+
+Konum : 5511
+nCovid = TKNSKVQIGEYTFEKGDYGDA
+SARS   = YRGTTTYKLNVGDYFVLTSHT
+
+**************
+
+Konum : 5533
+nCovid = VYRGTT
+SARS   = MPLSAP
+
+**************
+
+Konum : 5540
+nCovid = YKLNVGDYFVLTSHTVMPL
+SARS   = LVPQEHYVRITGLYPTLNI
+
+**************
+
+Konum : 5560
+nCovid = APTLVPQEH
+SARS   = DEFSSNVAN
+
+**************
+
+Konum : 5570
+nCovid = VRITGLYPTLNISDEFSSNVANYQKVGMQKY
+SARS   = QKVGMQKYSTLQGPPGTGKSHFAIGLALYYP
+
+**************
+
+Konum : 5602
+nCovid = TLQGPPGTGKSHFAIGLALYYPSAR
+SARS   = ARIVYTACSHAAVDALCEKALKYLP
+
+**************
+
+Konum : 5628
+nCovid = VYTACSHA
+SARS   = DKCSRIIP
+
+**************
+
+Konum : 5637
+nCovid = VDALCEKALKYLPIDKCSRIIPARARVECFDKFK
+SARS   = RARVECFDKFKVNSTLEQYVFCTVNALPETTADI
+
+**************
+
+Konum : 5672
+nCovid = NSTLEQYVFCTVNALPETTADIVVFDE
+SARS   = VFDEISMATNYDLSVVNARLRAKHYVY
+
+**************
+
+Konum : 5700
+nCovid = SMATNYDLSVVNARLRAKHYV
+SARS   = GDPAQLPAPRTLLTKGTLEPE
+
+**************
+
+Konum : 5722
+nCovid = IGDPAQ
+SARS   = FNSVCR
+
+**************
+
+Konum : 5729
+nCovid = PAPRTLLTKGTLEPEYFNSVCRLMKTIGP
+SARS   = MKTIGPDMFLGTCRRCPAEIVDTVSALVY
+
+**************
+
+Konum : 5759
+nCovid = MF
+SARS   = NK
+
+**************
+
+Konum : 5762
+nCovid = GTCRRCP
+SARS   = KAHKDKS
+
+**************
+
+Konum : 5770
+nCovid = EIVDTVSAL
+SARS   = QCFKMFYKG
+
+**************
+
+Konum : 5780
+nCovid = YDNKLKAHKDKSAQCFKMFYKGVITHDVSSAINR
+SARS   = ITHDVSSAINRPQIGVVREFLTRNPAWRKAVFIS
+
+**************
+
+Konum : 5815
+nCovid = QIGVVREFLTRNPAWRKA
+SARS   = YNSQNAVASKILGLPTQT
+
+**************
+
+Konum : 5834
+nCovid = FI
+SARS   = DS
+
+**************
+
+Konum : 5837
+nCovid = PYNSQNA
+SARS   = QGSEYDY
+
+**************
+
+Konum : 5845
+nCovid = ASKILGLPTQTVDSSQGSEYDYVIFTQTTETAHSCNVNRFNVAITRAKVGILCIMSDRDLYDK
+SARS   = IFTQTTETAHSCNVNRFNVAITRAKIGILCIMSDRDLYDKLQFTSLEIPRRNVATLQAENVTG
+
+**************
+
+Konum : 5909
+nCovid = QFTSLE
+SARS   = FKDCSK
+
+**************
+
+Konum : 5916
+nCovid = PRRNVA
+SARS   = ITGLHP
+
+**************
+
+Konum : 5923
+nCovid = LQAENVTGLF
+SARS   = QAPTHLSVDI
+
+**************
+
+Konum : 5934
+nCovid = DCSKVITGLH
+SARS   = FKTEGLCVDI
+
+**************
+
+Konum : 5945
+nCovid = TQAPTHLSVDTKFKTEGLCVDIPGIPKD
+SARS   = GIPKDMTYRRLISMMGFKMNYQVNGYPN
+
+**************
+
+Konum : 5974
+nCovid = TYR
+SARS   = FIT
+
+**************
+
+Konum : 5978
+nCovid = LISMMGFKMNYQVNGYPNMFITREEAIRHVRAWIGFDVEGCH
+SARS   = EEAIRHVRAWIGFDVEGCHATRDAVGTNLPLQLGFSTGVNLV
+
+**************
+
+Konum : 6021
+nCovid = TREAVGTNLPLQLGFSTGVNLVAVPTGYVDT
+SARS   = VPTGYVDTENNTEFTRVNAKPPPGDQFKHLI
+
+**************
+
+Konum : 6053
+nCovid = NNTDFSRVSAKPPPGD
+SARS   = LMYKGLPWNVVRIKIV
+
+**************
+
+Konum : 6070
+nCovid = FKHLIPLMYKGLPWN
+SARS   = MLSDTLKGLSDRVVF
+
+**************
+
+Konum : 6086
+nCovid = VRIKIVQML
+SARS   = LWAHGFELT
+
+**************
+
+Konum : 6096
+nCovid = DTLKNLSDRVVFVLWAHGFELTSMKYFVKIGPERTCCLC
+SARS   = MKYFVKIGPERTCCLCDKRATCFSTSSDTYACWNHSVGF
+
+**************
+
+Konum : 6136
+nCovid = RRATC
+SARS   = YVYNP
+
+**************
+
+Konum : 6142
+nCovid = STASDTYACWHHSIGFDYVYNPFMIDVQQWGFTGNLQSNHDLYCQVHGNAHVASCDA
+SARS   = MIDVQQWGFTGNLQSNHDQHCQVHGNAHVASCDAIMTRCLAVHECFVKRVDWSVEYP
+
+**************
+
+Konum : 6200
+nCovid = MTRC
+SARS   = IGDE
+
+**************
+
+Konum : 6205
+nCovid = A
+SARS   = R
+
+**************
+
+Konum : 6207
+nCovid = HECFV
+SARS   = NSACR
+
+**************
+
+Konum : 6213
+nCovid = RVDWTIEYPIIG
+SARS   = VQHMVVKSALLA
+
+**************
+
+Konum : 6226
+nCovid = ELKINAACRKVQHMVVKAALLADKFPVLHDIGNP
+SARS   = KFPVLHDIGNPKAIKCVPQAEVEWKFYDAQPCSD
+
+**************
+
+Konum : 6265
+nCovid = VPQADVEWKFY
+SARS   = EELFYSYATHH
+
+**************
+
+Konum : 6277
+nCovid = AQPCSDKAYKIEELFYSY
+SARS   = KFTDGVCLFWNCNVDRYP
+
+**************
+
+Konum : 6296
+nCovid = THSDKFT
+SARS   = NAIVCRF
+
+**************
+
+Konum : 6304
+nCovid = GVC
+SARS   = TRV
+
+**************
+
+Konum : 6308
+nCovid = FWNCNVDRYPANSI
+SARS   = SNLNLPGCDGGSLY
+
+**************
+
+Konum : 6323
+nCovid = CRFDTRVLSNLNLPGCDGGS
+SARS   = NKHAFHTPAFDKSAFTNLKQ
+
+**************
+
+Konum : 6344
+nCovid = YVNKHAFHTPAFDKSAF
+SARS   = PFFYYSDSPCESHGKQV
+
+**************
+
+Konum : 6362
+nCovid = NLKQLPFFYYSDSPCESHGKQV
+SARS   = SDIDYVPLKSATCITRCNLGGA
+
+**************
+
+Konum : 6385
+nCovid = SDIDYVPLKSATCITRCNLGGAVCRHHANEYRL
+SARS   = CRHHANEYRQYLDAYNMMISAGFSLWIYKQFDT
+
+**************
+
+Konum : 6419
+nCovid = LDAYNMMISAGFSLWV
+SARS   = NLWNTFTRLQSLENVA
+
+**************
+
+Konum : 6436
+nCovid = KQFDTYNLWNTFTRLQSLENVAFNVVNKGHF
+SARS   = NVVNKGHFDGHAGEAPVSIINNAVYTKVDGI
+
+**************
+
+Konum : 6468
+nCovid = GQQG
+SARS   = VEIF
+
+**************
+
+Konum : 6473
+nCovid = VPVSIIN
+SARS   = NKTTLPV
+
+**************
+
+Konum : 6481
+nCovid = TVYTKVDGVDVELFENKTT
+SARS   = VAFELWAKRNIKPVPEIKI
+
+**************
+
+Konum : 6501
+nCovid = PVNVAFELWAKRNIKPVP
+SARS   = NNLGVDIAANTVIWDYKR
+
+**************
+
+Konum : 6520
+nCovid = VKILNNLGVDIAANTVIWDYKRD
+SARS   = APAHVSTIGVCTMTDIAKKPTES
+
+**************
+
+Konum : 6544
+nCovid = PAHISTIGVCSMTDIAKKPTETICAP
+SARS   = CSSLTVLFDGRVEGQVDLFRNARNGV
+
+**************
+
+Konum : 6571
+nCovid = TVFFDGRVDGQVDLFRN
+SARS   = ITEGSVKGLTPSKGPAQ
+
+**************
+
+Konum : 6589
+nCovid = RNGVLITE
+SARS   = SVNGVTLI
+
+**************
+
+Konum : 6598
+nCovid = SVKGL
+SARS   = ESVKT
+
+**************
+
+Konum : 6604
+nCovid = PSVGP
+SARS   = FNYFK
+
+**************
+
+Konum : 6610
+nCovid = QASLNGVTLIGEAVKTQFNYYK
+SARS   = VDGIIQQLPETYFTQSRDLEDF
+
+**************
+
+Konum : 6633
+nCovid = VDGVVQQLPETYFTQSRNLQEFKPRSQM
+SARS   = PRSQMETDFLELAMDEFIQRYKLEGYAF
+
+**************
+
+Konum : 6662
+nCovid = IDFLELAMDEFIERYK
+SARS   = HIVYGDFSHGQLGGLH
+
+**************
+
+Konum : 6679
+nCovid = EGYAFEHIVYGDFSHSQLGGLHLLIGLAKRFKESPFELEDFIPMDSTVKNY
+SARS   = MIGLAKRSQDSPLKLEDFIPMDSTVKNYFITDAQTGSSKCVCSVIDLLLDD
+
+**************
+
+Konum : 6731
+nCovid = ITDAQTGSSKCVCS
+SARS   = VEIIKSQDLSVISK
+
+**************
+
+Konum : 6746
+nCovid = IDLLL
+SARS   = VKVTI
+
+**************
+
+Konum : 6752
+nCovid = DFVEIIKSQDLSVVSKVVKVTIDYTEISFMLWCKDGHVETFYPK
+SARS   = YAEISFMLWCKDGHVETFYPKLQASQAWQPGVAMPNLYKMQRML
+
+**************
+
+Konum : 6797
+nCovid = QSSQAWQP
+SARS   = EKCDLQNY
+
+**************
+
+Konum : 6806
+nCovid = VAMPNLYKMQRMLLEKCD
+SARS   = ENAVIPKGIMMNVAKYTQ
+
+**************
+
+Konum : 6825
+nCovid = QN
+SARS   = CQ
+
+**************
+
+Konum : 6828
+nCovid = GDSA
+SARS   = LNTL
+
+**************
+
+Konum : 6835
+nCovid = KGIM
+SARS   = VPYN
+
+**************
+
+Konum : 6840
+nCovid = N
+SARS   = R
+
+**************
+
+Konum : 6842
+nCovid = AKYTQLCQYLNTLTL
+SARS   = IHFGAGSDKGVAPGT
+
+**************
+
+Konum : 6860
+nCovid = YNMRVIHFGAGSDKGVAPGTAVLRQWLPTGTLLVDSDLN
+SARS   = RQWLPTGTLLVDSDLNDFVSDADSTLIGDCATVHTANKW
+
+**************
+
+Konum : 6900
+nCovid = FVSDADSTLIGDCA
+SARS   = LIISDMYDPRTKHV
+
+**************
+
+Konum : 6915
+nCovid = VHTAN
+SARS   = KENDS
+
+**************
+
+Konum : 6921
+nCovid = WDLIISDMYDP
+SARS   = EGFFTYLCGFI
+
+**************
+
+Konum : 6933
+nCovid = T
+SARS   = Q
+
+**************
+
+Konum : 6935
+nCovid = NVTKENDSKEGFFTYICGFIQQKLALGGSVAIKI
+SARS   = LALGGSIAVKITEHSWNADLYKLMGHFSWWTAFV
+
+**************
+
+Konum : 6970
+nCovid = EHSWNADLYK
+SARS   = NVNASSSEAF
+
+**************
+
+Konum : 6981
+nCovid = M
+SARS   = I
+
+**************
+
+Konum : 6983
+nCovid = HFAWWTAFVTNVNASSSEAFLIGC
+SARS   = ANYLGKPKEQIDGYTMHANYIFWR
+
+**************
+
+Konum : 7008
+nCovid = YLGKPREQIDGYV
+SARS   = TNPIQLSSYSLFD
+
+**************
+
+Konum : 7022
+nCovid = HANYIFW
+SARS   = SKFPLKL
+
+**************
+
+Konum : 7030
+nCovid = N
+SARS   = G
+
+**************
+
+Konum : 7032
+nCovid = NPIQ
+SARS   = AVMS
+
+**************
+
+Konum : 7037
+nCovid = SSYSLF
+SARS   = KENQIN
+
+**************
+
+Konum : 7046
+nCovid = KFP
+SARS   = YSL
+
+**************
+
+Konum : 7050
+nCovid = KLRGTAVMSLKEGQINDM
+SARS   = EKGRLIIRENNRVVVSSD
+
+**************
+
+Konum : 7071
+nCovid = L
+SARS   = N
+
+**************
+
+Konum : 7073
+
+nCovid = SKGRLIIRENNRVVISSDVLVN
+SARS   = ----------------------
+
+**************
+
